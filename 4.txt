@@ -1,5 +1,0 @@
-forth modify
-last 4.txt
-fff
-aaa
-bbb
