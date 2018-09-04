@@ -1,5 +1,0 @@
-hello world
-last
-modified
-checkout dev
-master branch
